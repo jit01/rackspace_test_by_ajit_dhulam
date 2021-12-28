@@ -44,6 +44,6 @@ Run the commands in **powershell** or **terminal**, at root folder of this proje
    "Run 'pytest in test.py' "
    
    
-![Input](https://github.com/jit01/Rackspace_ajit/rackspace_task/input.png)
-![Output](https://github.com/jit01/Rackspace_ajit/rackspace_task/output.png)
+![Input](https://github.com/jit01/rackspace_test_by_ajit_dhulam/blob/main/rackspace_task/input.png)
+![Output](https://github.com/jit01/rackspace_test_by_ajit_dhulam/blob/main/rackspace_task/output.png)
 
