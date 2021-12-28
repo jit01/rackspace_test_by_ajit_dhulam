@@ -26,16 +26,19 @@ screenshots.
 ## Steps to run.
 Run the commands in **powershell** or **terminal**, at root folder of this project
 
-1. Build the docker image using the Dockerfile provided and following command:
+1. make sure your in current folder struture it should be in  `rackspace_task/` to change direct use below command
+   `>>>cd rackspace_task`
+
+2. Build the docker image using the Dockerfile provided and following command:
    
    `docker-compose build`
-2. Run the docker container using following command.
+3. Run the docker container using following command.
    
    `docker-compose up`
-3. Django Server will be up and running. Open the browser and hit http://127.0.0.1:8000/ to see UI. 
+4. Django Server will be up and running. Open the browser and hit http://127.0.0.1:8000/ to see UI. 
    You can add new items from UI and the list will be automatically updated and coupons will be automatically applied.
    
-4. After cloning the repo locally, run test cases locally using below command it covered all 4 rules in test :
+5. After cloning the repo locally, run test cases locally using below command it covered all 4 rules in test :
 
    `python rackspace_task/online_fruit/tests.py`
 
